@@ -3,6 +3,6 @@ using namespace std;
 
 int main() {
 
-	cout << "hello VisualStdio Git !\n"<<endl;
+	cout << "hello VisualStdio Git !"<<endl;
 
 }
