@@ -6,7 +6,7 @@ int main() {
 	cout << "hello VisualStdio Git !"<<endl;
 
 
-	cout << "hello New Branch !!"<<endl;
+	cout << "GitHub Clone Changed"<<endl;
 
 
 }
